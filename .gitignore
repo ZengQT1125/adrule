@@ -1,5 +1,6 @@
 # 临时 / 本地产物
 _tmp_src*/
+_tmp_ana/
 src/
 *.log
 .DS_Store
