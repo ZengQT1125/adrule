@@ -10,7 +10,6 @@
 | --- | --- | --- |
 | AWAvenue | 精品源，人工精选、质量高 | [AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) |
 | abpmerge | 聚合合并列表（规则类型全） | [damengzhu/abpmerge](https://github.com/damengzhu/abpmerge) |
-| adblock_auto | 超大聚合列表 | [lingeringsound/adblock_auto](https://github.com/lingeringsound/adblock_auto) |
 
 ## 订阅地址
 

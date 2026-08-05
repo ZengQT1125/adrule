@@ -12,7 +12,6 @@ UA = {"User-Agent": "Mozilla/5.0 (adrule-builder; +https://github.com/ZengQT1125
 SOURCES = {
     "awavenue":    "https://github.boki.moe/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
     "abpmerge":    "https://raw.githubusercontent.com/damengzhu/abpmerge/refs/heads/main/abpmerge.txt",
-    "adblock_auto":"https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt",
 }
 
 # 防御性白名单：仅剔除"整域拦截知名服务主域"的域名级规则(如 ||google.com^ )。
